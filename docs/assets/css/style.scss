@@ -256,7 +256,7 @@ h4 {
   }
 
   #header_wrap {
-    @include imgRetina('/images/inspire-helsinki-2019-banner', 'png', 1200px, left top);
+    @include imgRetina('./images/inspire-helsinki-2019-banner', 'png', 1200px, left top);
     background-color: white;
     position:relative;
 
