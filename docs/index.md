@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Workshops - Inspire Helsinki 2019 Data Challenge"
+title: "Workshops - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "main"
 ---
