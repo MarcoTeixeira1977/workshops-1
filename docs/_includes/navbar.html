@@ -1,0 +1,48 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#2AABE2;">
+  <a class="navbar-brand short" href="/">InspireHel 2019 Workshops</a>
+  <a class="navbar-brand long" href="/">Inspire Helsinki 2019 Workshops</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse justify-content-stretch" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      {% if page.page == 'main' %}
+      <li class="nav-item active">
+      {% else %}
+      <li class="nav-item">
+      {% endif %}
+        <a class="nav-link" href="#">Workshops</a>
+      </li>
+      <!--
+      {% if page.page == 'page1' %}
+      <li class="nav-item active">
+      {% else %}
+      <li class="nav-item">
+      {% endif %}
+        <a class="nav-link" href="#">Page 1</a>
+      </li>
+      {% if page.page == 'page2' %}
+      <li class="nav-item active">
+      {% else %}
+      <li class="nav-item">
+      {% endif %}
+        <a class="nav-link" href="#">Page 2</a>
+      </li>
+      -->
+    </ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/"><i class="fas fa-handshake"></i>&nbsp;Inspire Helsinki 2019 event</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/workshops"><i class="fab fa-github"></i>&nbsp;Code</a>
+      </li>
+      <!--
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+      </li>
+      -->
+    </ul>
+  </div>
+</nav>

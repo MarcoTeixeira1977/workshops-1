@@ -1,0 +1,273 @@
+---
+---
+
+@import "{{ site.theme }}";
+@mixin imgRetina($image, $extension, $width, $position: center, $repeat: no-repeat) {
+     background-image: url($image + '.' + $extension);
+     background-repeat: $repeat;
+     background-position: $position;
+
+     @media
+     screen and (-webkit-min-device-pixel-ratio: 2),
+     screen and (   min--moz-device-pixel-ratio: 2),
+     screen and (   -moz-min-device-pixel-ratio: 2),
+     screen and (     -o-min-device-pixel-ratio: 2/1),
+     screen and (        min-device-pixel-ratio: 2),
+     screen and (             min-resolution: 192dpi),
+     screen and (             min-resolution: 2dppx) {
+        background-image: url($image + '@2x' + '.' + $extension);
+        background-size: $width auto;
+     }
+}
+body {
+  color: #373737;
+  background: #fafafa;
+}
+
+h1 {
+  color: #0065a5;
+}
+
+h2 {
+  color: #0065a5;
+  font-size: 24px;
+  font-weight: normal;
+  padding-bottom: 0px;
+  background: none;
+}
+
+h3 {
+  color: #0065a5;
+  font-size: 20px;
+  font-weight: normal;
+  padding-bottom: 0px;
+  background: none;
+}
+
+h4 {
+  color: #0065a5;
+  font-size:18px;
+  font-weight: normal;
+  padding-bottom: 0px;
+  background: none;
+}
+
+.inner {
+  position: static;
+}
+
+ #header_wrap {
+     display: none;
+ }
+
+ #main_content_wrap {
+   background: #fafafa;
+   border-top: 1px solid #0066a7;
+   border-bottom: 1px solid #0066a7;
+
+   .inner {
+     max-width: 58em;
+   }
+
+   &.sidebar-container {
+     .inner {
+       max-width: 64em;
+     }
+   }
+}
+
+#main_content {
+  padding-top: 0px;
+}
+
+.challenge {
+  .jumbotron {
+    background-color: #e6e6e6;
+
+    h1 {
+      border-radius: 10px;
+      padding: 0.5ex;
+      opacity: 0.8;
+    }
+
+    p {
+      border-radius: 10px;
+      padding: 2ex;
+      opacity: 0.8;
+      text-align: justify;
+    }
+  }
+  .partners {
+    h4 {
+      margin-top:0px;
+      font-size: 22px;
+    }
+    .partner-list {
+      padding-left:0px;
+      margin-top: 1em;
+
+      li {
+        list-style: none;
+        padding-bottom:0.5em;
+      }
+      img {
+        border:none;
+        box-shadow: none;
+        padding-bottom: 0px;
+        margin:0px;
+      }
+    }
+  }
+}
+
+.sidebar-offcanvas {
+    padding-top:0px;
+}
+
+.card {
+  .card-title {
+    margin-top: 0px;
+  }
+  .card-text {
+    min-height: 6em;
+  }
+}
+ #footer_wrap {
+   background: #ffffff;
+
+   .inner {
+     max-width: 58em;
+     font-size: smaller;
+     p {
+       color: #797979;
+     }
+
+     a {
+      color: black;
+      text-decoration: none;
+     }
+   }
+ }
+
+ .navbar-brand {
+   &.long {
+     display:none;
+   }
+ }
+
+ .navbar-nav {
+   font-size: large;
+ }
+
+ ul.timeline {
+    list-style-type: none;
+    position: relative;
+
+
+
+    &:before {
+        content: ' ';
+        background: #d4d9df;
+        display: inline-block;
+        position: absolute;
+        left: 29px;
+        width: 2px;
+        height: 100%;
+        z-index: 400;
+    }
+
+    li {
+        margin: 20px 0;
+        padding-left: 1.7rem;
+        clear:both;
+
+        &:before {
+            content: ' ';
+            background: white;
+            display: inline-block;
+            position: absolute;
+            border-radius: 50%;
+            border: 3px solid #22c0e8;
+            left: 20px;
+            width: 20px;
+            height: 20px;
+            z-index: 400;
+        }
+        &.passed {
+            &:before {
+              border: 3px solid #c1c1c1;
+            }
+
+            h5 {
+              color: #6f6f6f;
+            }
+            p {
+              color: #949090
+            }
+            span {
+              color: #949090;
+            }
+         }
+
+        h5 {
+          color: #007bff;
+          font-size: 1rem;
+          font-weight: normal;
+          display: inline;
+        }
+        p {
+          margin-top: 0px;
+        }
+
+        span {
+          color: #007bff;
+        }
+    }
+}
+@media screen and (min-width: 500px) {
+  .navbar-brand {
+    &.short {
+      display:none;
+    }
+    &.long {
+      display:block;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-brand {
+    &.short {
+      display:none;
+    }
+    &.long {
+      display:none;
+    }
+  }
+  #header_wrap {
+    display: block;
+  }
+  #main_content {
+    padding-top: 40px;
+  }
+
+  .sidebar-offcanvas {
+    padding-top:40px;
+  }
+
+  #header_wrap {
+    @include imgRetina('/images/inspire-helsinki-2019-banner', 'png', 1200px, left top);
+    background-color: white;
+    position:relative;
+
+    .inner {
+      padding-bottom:172px;
+
+      .signup {
+        position: absolute;
+        top: 140px;
+        left: 60px;
+      }
+    }
+  }
+}
