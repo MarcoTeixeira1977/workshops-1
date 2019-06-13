@@ -6,4 +6,4 @@ page: "main"
 ---
 # Inspire Helsinki 2019 Workshops
 
-TBA
+Preliminary material for Inspire Helsinki 2019 workshops will be added to these pages during the summer 2019 
