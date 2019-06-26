@@ -8,18 +8,18 @@ page: "main"
 
 Descriptions of the workshops can be found via links below. Some preliminary materials will be added closer to the event.
 
-[https://workshops.inspire-helsinki-2019.fi/workshop1](INSPIRE, WFS3 and HALE Support in GeoServer: where are we?)
+[INSPIRE, WFS3 and HALE Support in GeoServer: where are we?](https://workshops.inspire-helsinki-2019.fi/workshop1)
 
-Building Web and Mobile Friendly Applications on top of INSPIRE data services, recent updates and real time streams.  
+[Building Web and Mobile Friendly Applications on top of INSPIRE data services, recent updates and real time streams](https://workshops.inspire-helsinki-2019.fi/workshop2) 
 
-OGC API-Features: setting up enhanced usability for existing WFS services (hands on). 
+[OGC API-Features: setting up enhanced usability for existing WFS services (hands on)](https://workshops.inspire-helsinki-2019.fi/workshop3)
 
-Event-Driven INSPIRE + Exchange of experience of vector tile service: pros and cons
+[Event-Driven INSPIRE + Exchange of experience of vector tile service: pros and cons](https://workshops.inspire-helsinki-2019.fi/workshop4)
 
-Feel the power of INSPIRE WCS / WCPS in your hands (on Workshop!) 
+[Feel the power of INSPIRE WCS / WCPS in your hands (on Workshop!)](https://workshops.inspire-helsinki-2019.fi/workshop5)
 
-OGC SELFIE - Second Environmental Linked Features Interoperability Experiment 
+[OGC SELFIE - Second Environmental Linked Features Interoperability Experiment](https://workshops.inspire-helsinki-2019.fi/workshop6)
 
-Making INSPIRE Useable with ArcGIS and Alternative Encodings
+[Making INSPIRE Useable with ArcGIS and Alternative Encodings](https://workshops.inspire-helsinki-2019.fi/workshop7)
 
-Experiences in implementing pan-European Services using national INSPIRE services 
+[xperiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
