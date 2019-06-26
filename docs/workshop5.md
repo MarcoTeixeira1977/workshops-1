@@ -4,7 +4,7 @@ title: "Workshop description #5 - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "workshop5"
 ---
-# Feel the power of INSPIRE WCS / WCPS in your hands (on Workshop!)
+# Feel the power of INSPIRE WCS / WCPS in your hands
 
 This hands-on workshop will focus on exploring the advantages of using coverages through the OGC standards WCS / WCPS and SOS when accessing, subsetting, and combining INSPIRE coverage data sources, e.g.: 
 - Data belonging to INSPIRE coverage themes - where coverages are considered as features (WCS view): Energy resources (ER), Natural risk zones (NZ), Elevation (EL), Land cover (LC), Land use (LU), Orthoimagery (OI), Soil (SO) & Geology (GE). 
@@ -21,7 +21,7 @@ c) Practical WCS / WCPS exercise:
 - Introduction to the use of rasdaman engine. 
 - Practical geospatial data exercise. 
 - Importing and re-using existing WCS services available. 
-- Analise and combine different data layers mostly based on WCS sources. 
+- Analyse and combine different data layers mostly based on WCS sources. 
 - Download and presentation of results. 
 - Feedback from the audience. 
 
