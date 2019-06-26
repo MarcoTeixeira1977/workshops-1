@@ -8,7 +8,7 @@ page: "main"
 
 Descriptions of the workshops can be found via links below. Some preliminary materials will be added closer to the event.
 
-[https://workshops.inspire-helsinki-2019.fi/workshop1](ISPIRE, WFS3 and HALE Support in GeoServer: where are we?)
+[https://workshops.inspire-helsinki-2019.fi/workshop1](INSPIRE, WFS3 and HALE Support in GeoServer: where are we?)
 
 Building Web and Mobile Friendly Applications on top of INSPIRE data services, recent updates and real time streams.  
 
