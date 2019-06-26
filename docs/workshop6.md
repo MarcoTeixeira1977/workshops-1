@@ -19,5 +19,6 @@ If you have an interesting Use Case & data, bring it along!
 
 # Other information
 
+* Organizer of the event: DataCove e.U.
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
