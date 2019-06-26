@@ -14,7 +14,9 @@ This hands-on workshop will focus on exploring the advantages of using coverages
 The proposed workshop will be structured according to the following approximate schema: 
 
 a) State of Play about coverage data and WCS / WCPS services standardisation in OGC / ISO, including the new OGC OpenAPI - Coverages interface. 
+
 b) State of Play of INSPIRE Coverages - OGC Compliant INSPIRE XSD coverage schemas. 
+
 c) Practical WCS / WCPS exercise: 
 - Introduction to the use of rasdaman engine. 
 - Practical geospatial data exercise. 
@@ -33,10 +35,13 @@ In conclusion, this activity constitutes a unique opportunity to boost coverage 
 
 # Requirements for participants
 
-* Basic knowledge of GeoServer 
-* Basic knowledge of WFS 3 
-* Basic Knowledge of HALE 
-* Not being afraid of GML!
+The workshop is targeted to both, users and providers of any kind of geospatial raster data. 
+ 
+Pre-workshop preparation - It would be desirable if attendees could: 
+ 
+a) Familiarise with the basics of coverages by reading the tutorials at http://www.earthserver.eu/webinars and the discussions about INSPIRE coverages in the INSPIRE Community Forum https://inspire.ec.europa.eu/forum/. 
+ 
+b) Collect open issues within their organisations for discussion, analysis and clarification. 
 
 # Other information
 
