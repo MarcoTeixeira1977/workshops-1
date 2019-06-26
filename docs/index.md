@@ -22,4 +22,4 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 
 [Making INSPIRE Useable with ArcGIS and Alternative Encodings](https://workshops.inspire-helsinki-2019.fi/workshop7)
 
-[xperiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
+[Experiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
