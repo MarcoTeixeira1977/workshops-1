@@ -10,6 +10,7 @@ page: "main"
 
 Descriptions of the workshops can be found via links below. Some preliminary materials will be added closer to the event.
 
+
 **Workshops track 1:** 
 
 9:00 - 12:30
@@ -23,6 +24,7 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 
 17:00 - 18:30
 [OGC SELFIE - Second Environmental Linked Features Interoperability Experiment](https://workshops.inspire-helsinki-2019.fi/workshop6)
+
 
 **Workshops track 2:**
 
