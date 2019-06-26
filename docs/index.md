@@ -42,7 +42,3 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 
 
 [Contact us](inspire-helsinki2019@nls.fi) in case of questions.
-
-Follow us on [Twitter](https://twitter.com/inspire_eu) & [LinkedIn](https://www.linkedin.com/groups/1066897/): the official hashtag is #inspireHelsinki2019
-
-Inspire Helsinki 2019 is organised by the [National Land Survey of Finland](https://www.maanmittauslaitos.fi/en) and [Ministry of Agriculture and Forestry](https://mmm.fi/en/frontpage) supported by the [Joint Research Centre of the European Commission](https://ec.europa.eu/jrc/en).
