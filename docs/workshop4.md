@@ -1,20 +1,17 @@
 ---
 layout: "default"
-title: "Workshop description #3 - Inspire Helsinki 2019"
+title: "Workshop description #4 - Inspire Helsinki 2019"
 description: "Material for workshops"
-page: "workshop3"
+page: "workshop4"
 ---
 # Event-Driven INSPIRE
 
 Many applications rely on the timely delivery of data. This can comprise: 
  
-- Monitoring applications, which continuously check certain environmental parameters (e.g. air quality) or risks (e.g. flooding risk based on water level measurements). 
- 
-- Mapping applications of dynamic properties (e.g. radar images, flight/ship tracking) 
- 
-- Complex analysis workflows which require up-to-date satellite imagery as input 
- 
-- Catalogue clients that shall notify users about new available data sets or updates to existing data sets 
+* Monitoring applications, which continuously check certain environmental parameters (e.g. air quality) or risks (e.g. flooding risk based on water level measurements). 
+* Mapping applications of dynamic properties (e.g. radar images, flight/ship tracking)
+* Complex analysis workflows which require up-to-date satellite imagery as input
+* Catalogue clients that shall notify users about new available data sets or updates to existing data sets 
  
 However, the existing INSPIRE approaches for data delivery are based on pull-style communication. That means that clients connect to servers and check if new data is available. With new communication protocols and specifications that are currently becoming available, push/event-based data delivery becomes a new option. 
  
