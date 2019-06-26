@@ -16,10 +16,10 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 [INSPIRE, WFS3 and HALE Support in GeoServer: where are we?](https://workshops.inspire-helsinki-2019.fi/workshop1)
 
 13:30 - 15:00
-[OGC API-Features: setting up enhanced usability for existing WFS services (hands on)](https://workshops.inspire-helsinki-2019.fi/workshop3)
+[OGC API-Features: setting up enhanced usability for existing WFS services](https://workshops.inspire-helsinki-2019.fi/workshop3)
 
 15:30 - 17:00
-[Feel the power of INSPIRE WCS / WCPS in your hands (on Workshop!)](https://workshops.inspire-helsinki-2019.fi/workshop5)
+[Feel the power of INSPIRE WCS / WCPS in your hands](https://workshops.inspire-helsinki-2019.fi/workshop5)
 
 17:00 - 18:30
 [OGC SELFIE - Second Environmental Linked Features Interoperability Experiment](https://workshops.inspire-helsinki-2019.fi/workshop6)
