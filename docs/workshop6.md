@@ -4,7 +4,7 @@ title: "Workshop description #6 - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "workshop6"
 ---
-# INSPIRE, WFS3 and HALE Support in GeoServer: where are we?
+# OGC SELFIE - Second Environmental Linked Features Interoperability Experiment
 
 The initial OGC Environmental Linked Features Interoperability Experiment (ELFIE) sought sustainable and automatable solutions to link multi-disciplinary, multi-organization environmental data without the requirement to transfer custody or burden of maintenance of data. It builds on W3C best practices, providing guidance and a common approach on utilizing JSON-LD for encoding environmental feature data and observational data, as well as semantically defined interlinkages based on schema.org and other relevant vocabularies. Using these technologies, it bridged the divide between the great flexibility and power of OGC services and the more focused and specific technologies that drive modern web development. 
 
@@ -20,4 +20,4 @@ If you have an interesting Use Case & data, bring it along!
 # Other information
 
 * Duration of the workshop: 1.5 hours
-* Event programme https://www.inspire-helsinki-2019.fi/programme
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
