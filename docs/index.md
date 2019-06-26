@@ -41,4 +41,4 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 [Experiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
 
 
-[Contact us](mailto:inspire-helsinki2019@nls.fi) in case of questions.
+[Contact us]<inspire-helsinki2019@nls.fi> in case of questions.
