@@ -17,4 +17,4 @@ N/A (while audience members are welcome to try things hands-on, this workshop do
 # Other information
 
 * Duration of the workshop: 3 hours
-* Event programme https://www.inspire-helsinki-2019.fi/programme
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
