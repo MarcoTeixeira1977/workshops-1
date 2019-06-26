@@ -25,5 +25,6 @@ The workshop will provide a hands-on introduction to the basic GeoServer concept
 
 # Other information
 
+* Organizer of the workshop: GeoSolutions SAS
 * Duration of the workshop: 3 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
