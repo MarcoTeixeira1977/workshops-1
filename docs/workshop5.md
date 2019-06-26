@@ -39,11 +39,11 @@ The workshop is targeted to both, users and providers of any kind of geospatial 
  
 Pre-workshop preparation - It would be desirable if attendees could: 
  
-a) Familiarise with the basics of coverages by reading the tutorials at http://www.earthserver.eu/webinars and the discussions about INSPIRE coverages in the INSPIRE Community Forum https://inspire.ec.europa.eu/forum/. 
+a) Familiarise with the basics of coverages by reading the tutorials at [http://www.earthserver.eu/webinars](http://www.earthserver.eu/webinars) and the discussions about INSPIRE coverages in the [INSPIRE Community Forum](https://inspire.ec.europa.eu/forum/). 
  
 b) Collect open issues within their organisations for discussion, analysis and clarification. 
 
 # Other information
 
 * Duration of the workshop: 1.5 hours
-* Event programme https://www.inspire-helsinki-2019.fi/programme
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
