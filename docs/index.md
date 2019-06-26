@@ -4,7 +4,9 @@ title: "Workshops - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "main"
 ---
-# Inspire Helsinki 2019 Workshops (Wednesday October 23, 2019)
+# Inspire Helsinki 2019 Workshops 
+
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) features workshops on Wednesday October 23, 2019.
 
 Descriptions of the workshops can be found via links below. Some preliminary materials will be added closer to the event.
 
