@@ -13,10 +13,10 @@ The goal will be to demonstrate a results based approach, where the basic output
 A flood impact application will be developed in the context of the workshop, with templates, instructions and cloud instances made available to all participants. The scenario will integrate basemap information from INSPIRE infrastructure and flood hazard themes combined with recent updates and real time data from available SOS, IoT, SensorThings API and other available sources. The goal will be to produce a basic dashboard and supporting reports that depict the status and impact of a developing flood event, with key indicators summarized in chart, tabular and map form. 
  
 The stack is expected to include the following components: 
-● Mediating service that reads INSPIRE WFS2, WCS, IoT, OGC SensorThings API, and WMS and updates a OGC Geopackage staging database 
-● The OGC Geopackage is then used to generate WFS3 / OGCAPI REST services with JSON, GeoJSON encodings 
-● Browser and mobile web map clients that use leaflet, vector tiles or equivalent 
-● Options for off-line viewing (pdf, html etc) 
+* Mediating service that reads INSPIRE WFS2, WCS, IoT, OGC SensorThings API, and WMS and updates a OGC Geopackage staging database 
+* The OGC Geopackage is then used to generate WFS3 / OGCAPI REST services with JSON, GeoJSON encodings 
+* Browser and mobile web map clients that use leaflet, vector tiles or equivalent 
+* Options for off-line viewing (pdf, html etc) 
  
 Through the course of the workshop we will begin with a basic template for each subsystem and show how new data sources or services can be added or published through that subsystem. 
  
@@ -26,9 +26,9 @@ In the end participants will have a working web application that they can access
 
 # Requirements for participants
 
-Attendees are encouraged to bring their own laptops or may work with others. Ideally attendees should have downloaded the most recent release of FME ahead of time from safe.com/downloads . Free licensing will be made available during the workshop. We also recommend a good text / xml editor such as Notepad++.
+Attendees are encouraged to bring their own laptops or may work with others. Ideally attendees should have downloaded the most recent release of FME ahead of time from [safe.com/downloads](safe.com/downloads). Free licensing will be made available during the workshop. We also recommend a good text / xml editor such as Notepad++.
 
 # Other information
 
 * Duration of the workshop: 3 hours
-* Event programme [https://www.inspire-helsinki-2019.fi/programme]
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
