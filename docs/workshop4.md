@@ -30,6 +30,8 @@ A vector tile is a vector representation of geographic data covering a spatially
 From the point of view of the service interface, vector tiles are no different to image tiles, they just happen to be in a different format (i.e. instead of PNG, they may be encoded in GeoJSON or Protocol Buffers). This means that they can be served through any view service interface that supports raster tiles (e.g. OGC WMTS, TMS or WMS-C), although the server which implements those interfaces must provide at least certain support for them. 
 On this presentation, I'm going to show the process to create the vector tile service, from the data analysis to the service optimizing 
 
+Participants can try the clients and vector tile service of the presentation.
+
 # Requirements for participants
 
 There are no specific requirements. Generally an understanding of Spatial Data Infrastructures and an interest in new technologies will be helpful. For trying out technology demos, participants should bring their laptop.
