@@ -6,7 +6,7 @@ page: "main"
 ---
 # Inspire Helsinki 2019 Workshops 
 
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) features practical hands-on workshops on Wednesday October 23, 2019. These are dwelling into spatial data and latest technologies, to improve decision making and the daily live of everyone. The workshops are aimed at developers, project managers and other technical people.
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) features practical hands-on workshops on Wednesday October 23, 2019. The workshops are dwelling into spatial data and latest technologies, to improve decision making and the daily live of everyone. They are targeted at developers, project managers and other technical people.
 
 Descriptions of the workshops can be found via links below. Some preliminary materials will be added closer to the event.
 
