@@ -19,6 +19,6 @@ If you have an interesting Use Case & data, bring it along!
 
 # Other information
 
-* Organizer of the event: DataCove e.U.
+* Organizers of the event: DataCove e.U., BRGM, Fraunhofer IOSB, GeoSolutions
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
