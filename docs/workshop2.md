@@ -26,7 +26,7 @@ In the end participants will have a working web application that they can access
 
 # Requirements for participants
 
-Attendees are encouraged to bring their own laptops or may work with others. Ideally attendees should have downloaded the most recent release of FME ahead of time from [safe.com/downloads](safe.com/downloads). Free licensing will be made available during the workshop. We also recommend a good text / xml editor such as [Notepad++](https://notepad-plus-plus.org/).
+Attendees are encouraged to bring their own laptops or may work with others. Ideally attendees should have downloaded the most recent release of FME ahead of time from [safe.com/downloads](https://www.safe.com/downloads). Free licensing will be made available during the workshop. We also recommend a good text / xml editor such as [Notepad++](https://notepad-plus-plus.org/).
 
 # Other information
 
