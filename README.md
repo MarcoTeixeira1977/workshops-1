@@ -1,2 +1,3 @@
 # Workshops
-Material for Inspire Helsinki 2019 workshops: [https://workshops.inspire-helsinki-2019.fi/](https://workshops.inspire-helsinki-2019.fi/)
+
+Descriptions and materials for Inspire Helsinki 2019 workshops: [https://workshops.inspire-helsinki-2019.fi/](https://workshops.inspire-helsinki-2019.fi/) that will be held on October 23, 2019.
