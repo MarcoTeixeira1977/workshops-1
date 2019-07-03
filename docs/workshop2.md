@@ -30,6 +30,6 @@ Attendees are encouraged to bring their own laptops or may work with others. Ide
 
 # Other information
 
-* Organizer of the workshop: [https://www.safe.com/](Safe Software)
+* Organizer of the workshop: [Safe Software](https://www.safe.com/)
 * Duration of the workshop: 3 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
