@@ -11,6 +11,6 @@ A workshop on sharing our experiences in implementing pan-European Services usin
 
 # Other information
 
-* Organizer of the event: EuroGeographics
+* Organizer of the event: [EuroGeographics](https://eurogeographics.org/)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
