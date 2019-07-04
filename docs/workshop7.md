@@ -16,6 +16,6 @@ N/A (while audience members are welcome to try things hands-on, this workshop do
 
 # Other information
 
-* Organizer of the event: Esri
+* Organizer of the event: [Esri](https://www.esri.com/en-us/home)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
