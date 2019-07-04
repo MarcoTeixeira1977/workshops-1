@@ -38,6 +38,6 @@ There are no specific requirements. Generally an understanding of Spatial Data I
 
 # Other information
 
-* Organizer of the workshop: [52°North](https://52north.org/en/)  & [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
+* Organizer of the workshop: 1st part: [52°North](https://52north.org/en/)  & 2nd part: [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
