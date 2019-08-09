@@ -6,7 +6,7 @@ page: "workshop1"
 ---
 # INSPIRE, WFS3 and HALE Support in GeoServer: where are we?
 
-GeoServer is a well-established multiplatform, open source server providing a variety of OGC services, including WMS (view services), WFS and WCS (download and edit services) as well as WPS (spatial data processing services). 
+[GeoServer](http://geoserver.org/) is a well-established multiplatform, open source server providing a variety of OGC services, including WMS (view services), WFS and WCS (download and edit services) as well as WPS (spatial data processing services). 
  
 Amongst the open source GIS web servers, GeoServer is well known for the ease of setup, the web console helping the administrator to configure data and services, the variety of OGC services available out of the box, as well as the rich set of data sources that it can connect to (open source, such as PostGIS as well as proprietary, such as Oracle or ECW raster). 
  
