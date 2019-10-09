@@ -25,3 +25,7 @@ In this workshop, we present a framework that builds on the INSPIRE extensions m
 Following this pattern, there are hundreds of business and administrative processes that can benefit from INSPIRE data. In Germany alone, more than 100 such processes have been identified and are currently being transformed from offline into online processes.
 
 During this highly interactive workshop, participants will get a quick overview of the framework and will then apply the framework to crowd-building an INSPIRE application (following the Beautiful Blue Danube scenario).
+
+# What you should bring
+* You don't have to have specific technical knowledge.
+* You don't have to have specific technical resources.
