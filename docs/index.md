@@ -9,7 +9,7 @@ page: "main"
 [Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) features practical hands-on workshops on Wednesday October 23, 2019. The workshops are focused on spatial data and latest technologies, to improve decision making and the daily live of everyone. They are aimed at developers, project managers and other technical people. The event is now sold out.
 
 Descriptions of the workshops can be found via links below. Some preliminary materials and instructions will be added before the event.
-
+Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
 
 **Workshops track 1 (Lounge):** 
 
@@ -39,6 +39,8 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 
 17:00 - 18:30
 A framework for Building Solutions on INSPIRE 
+
+---
 
 Also, please note the challenges and other content in [Programme](https://www.inspire-helsinki-2019.fi/programme), such as:
 [Experiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
