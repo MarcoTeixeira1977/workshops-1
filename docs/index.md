@@ -38,7 +38,7 @@ Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://ww
 [Making INSPIRE Useable with ArcGIS and Alternative Encodings](https://workshops.inspire-helsinki-2019.fi/workshop7)
 
 17:00 - 18:30
-A framework for Building Solutions on INSPIRE 
+[A framework for Building Solutions on INSPIRE](https://workshops.inspire-helsinki-2019.fi/workshop9)
 
 ---
 
