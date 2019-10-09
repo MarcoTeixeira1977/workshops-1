@@ -38,9 +38,10 @@ Descriptions of the workshops can be found via links below. Some preliminary mat
 [Making INSPIRE Useable with ArcGIS and Alternative Encodings](https://workshops.inspire-helsinki-2019.fi/workshop7)
 
 17:00 - 18:30
+A framework for Building Solutions on INSPIRE 
 
 Also, please note the challenges and other content in [Programme](https://www.inspire-helsinki-2019.fi/programme), such as:
 [Experiences in implementing pan-European Services using national INSPIRE services](https://workshops.inspire-helsinki-2019.fi/workshop8)
 
 
-If you have questions, contact us at inspire-helsinki2019@nls.fi
+If you have questions, please contact us at inspire-helsinki2019@nls.fi
