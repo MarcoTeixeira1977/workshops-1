@@ -4,7 +4,7 @@ title: "Workshop description #4 - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "workshop4"
 ---
-# 1st part: Event-Driven INSPIRE
+# 1st part: Event-Driven INSPIRE (1 hour)
 
 Many applications rely on the timely delivery of data. This can comprise: 
  
@@ -23,7 +23,7 @@ b) Reduction of server and network load: Currently, clients have to regularly qu
  
 Within this workshop we would like to provide an introduction into technologies and standards (e.g. MQTT, AMQP, OGC Publish/Subscribe, OGC SensorThings API) that may help to enable event-driven communication patterns within INSPIRE. Besides introductory presentations, this will also comprise demonstrations of practical applications (e.g. the German research project WaCoDiS) and potentially hands-on experiences with selected technologies (e.g. accessing near real-time data streams delivered through MQTT brokers).
 
-# 2nd part: Exchange of experience of vector tile service: pros and cons
+# 2nd part: Exchange of experience of vector tile service: pros and cons (½ hours)
 
 A vector tile is a vector representation of geographic data covering a spatially contiguous and rectangular extent. They are similar to raster (image) map tiles in their intent, namely to provide support to fast map services which can take advantage of pre-rendering, caching and concurrent requests. They are different because instead of providing a pre-styled fixed image depiction of the geographic data, they are a vector representation which can be manipulated, e.g. styled, client-side. It is important to highlight that they are a representation of data intended for visualization, and thus they belong to view services and not to download services; the underlying data, i.e. the geographic features, will be selected, combined, simplified and cropped to generate small vector tiles that can be quickly delivered to relatively simple client devices and applications, where they will be styled. 
  
@@ -38,6 +38,6 @@ There are no specific requirements. Generally an understanding of Spatial Data I
 
 # Other information
 
-* Organizer of the workshop: 1st part: [52°North](https://52north.org/en/)  & 2nd part: [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
+* Organizer of the workshop: 1st part (1 hour): [52°North](https://52north.org/en/)  & 2nd part (½ hours): [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
