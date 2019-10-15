@@ -16,6 +16,16 @@ Meanwhile, the new version of the WFS protocol, WFS 3.0 is being shaped by OGC i
  
 The workshop will provide a hands-on introduction to the basic GeoServer concepts, as well as usage and configuration, with particular attention to the setup of INSPIRE compliant services with a demonstration set of data in various formats, both raster and vector. We will show how complex features are configured and setup in GeoServer, the abilities and limitations of the app-schema module, as well as recent advances in producing a configuration starting point with the help of HALE mapping tool. Eventually we will cover WFS 3 support in GeoServer in terms of its current status and the expected evolutions. 
 
+**The training material of the workshop** is available online at:
+* https://geoserver.geo-solutions.it/edu/en/inspire/index.html
+* https://geoserver.geo-solutions.it/edu/en/complex_features/index.html
+
+**If you want to follow the practical exercises, you will need to:**
+Download the training package available at:
+* [Training-Geoserver-2.15.x-V2.zip](https://www.dropbox.com/s/c9qfu3uaokgrtkt/Training-Geoserver-2.15.x-V2.zip?dl=1)
+* Instructions about how to setup the training package and perform some basic
+tests are available [here](https://geoserver.geo-solutions.it/edu/en/intro/windows.html#geoserver-intro-windows)
+
 # Requirements for participants
 
 * Basic knowledge of GeoServer 
