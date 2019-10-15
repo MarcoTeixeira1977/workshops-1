@@ -32,7 +32,7 @@ Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://ww
 [Building Web and Mobile Friendly Applications on top of INSPIRE data services, recent updates and real time streams](https://workshops.inspire-helsinki-2019.fi/workshop2) 
 
 13:30 - 15:00
-[Part 1: Event-Driven INSPIRE (1 hour)](https://workshops.inspire-helsinki-2019.fi/workshop4) & [Part 2: Exchange of experience of vector tile service: pros and cons (½ hours)](https://workshops.inspire-helsinki-2019.fi/workshop4)
+[Part 1: Event-Driven INSPIRE](https://workshops.inspire-helsinki-2019.fi/workshop4) (1 hour) & [Part 2: Exchange of experience of vector tile service: pros and cons](https://workshops.inspire-helsinki-2019.fi/workshop4) (½ hours)
 
 15:30 - 17:00
 [Making INSPIRE Useable with ArcGIS and Alternative Encodings](https://workshops.inspire-helsinki-2019.fi/workshop7)
