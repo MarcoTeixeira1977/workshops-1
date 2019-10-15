@@ -27,6 +27,9 @@ Download the training package available at:
 * Instructions about how to setup the training package and perform some basic
 tests are available [here](https://geoserver.geo-solutions.it/edu/en/intro/windows.html#geoserver-intro-windows)
 
+To be able to run the training package, which contains several applications
+(PostgreSQL, GeoServer, HALE, etc …), **Windows is required**. Other operating systems users can use a Windows virtual VM, though.
+
 # Requirements for participants
 
 * Basic knowledge of GeoServer 
