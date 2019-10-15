@@ -21,6 +21,7 @@ The workshop will provide a hands-on introduction to the basic GeoServer concept
 * https://geoserver.geo-solutions.it/edu/en/complex_features/index.html
 
 **If you want to follow the practical exercises, you will need to:**
+
 Download the training package available at:
 * [Training-Geoserver-2.15.x-V2.zip](https://www.dropbox.com/s/c9qfu3uaokgrtkt/Training-Geoserver-2.15.x-V2.zip?dl=1)
 * Instructions about how to setup the training package and perform some basic
