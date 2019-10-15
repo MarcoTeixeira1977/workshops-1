@@ -43,9 +43,13 @@ Participants can try the clients and vector tile service of the presentation (br
 
 * Notepad++ is useful for seeing the code in their laptop. 
 * Web browser for using maputnik will be used https://maputnik.github.io/editor/#0.86/0/0
-* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
 
 Knowledge related to the following subjects will be helpful, but not mandatory:
 * Basic knowledge of Web Map Service and Web Map Tile Service.
 * Basic knowledge of programming 
 * Basic knowledge of Geoserver
+
+
+# Other information
+* Workshop duration: 1.5 hours in total
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
