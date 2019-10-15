@@ -41,8 +41,6 @@ On this presentation, I'm going to show the process to create the vector tile se
 
 Participants can try the clients and vector tile service of the presentation (bring your laptop for this).
 
-# Other information
-
 * Notepad++ is useful for seeing the code in their laptop. 
 * Web browser for using maputnik will be used https://maputnik.github.io/editor/#0.86/0/0
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
