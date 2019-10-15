@@ -14,13 +14,13 @@ The workshop will include a discussion to explore others’ experiences, and ans
 
 ## Workshop panel participants:
 
-Chair - Dominique Laurent (Chair of INSPIRE KEN), IGN France – introduce the workshop and chair the session.
-Mick Cory, EuroGeographics – 5 mins – Introduction to the projects (ELF, Open ELS and CRD) and their context 
-Eva Pauknerova, Czech Office for Surveying, Mapping and Cadastre (CUZK) – 15 minutes – a national data providers perspective - Experiences from a national data provider point of view; key arrangements needed to reach cross-border seamless data and functional interoperable services for practical usage (or not).  Making national data Inspire compliant services, and ensuring that these services are compliant for a pan-European services (i.e. making them ELF compliant). 
-Dorus Kruse, Dutch Kadaster –15 mins – a coordination perspective - to present about the technical challenges of coordinating the supply of data from multiple providers, the approach taken in ELF and Open ELS, and the lessons learned (to include the challenges of getting Inspire compliant metadata into European Data Portal)
-Anja Hopfstock, BKG Germany– 15 minutes – The integration perspective - to present the technical challenges of bringing INSPIRE data sets and services together, harmonisation experiences and challenges of doing so and the work arounds necessary to achieve pan-European data.  Drawing on experiences from ELF, Open ELS and the CRD project.
-Mick Cory, EuroGeographics – 10 mins – the overarching perspective – the legal, policy and organisational challenges and lessons learned.
-Questions, discussion and wrap-up – 25 minutes
+* Chair - Dominique Laurent (Chair of INSPIRE KEN), IGN France – introduce the workshop and chair the session.
+* Mick Cory, EuroGeographics – 5 mins – Introduction to the projects (ELF, Open ELS and CRD) and their context 
+* Eva Pauknerova, Czech Office for Surveying, Mapping and Cadastre (CUZK) – 15 minutes – a national data providers perspective - Experiences from a national data provider point of view; key arrangements needed to reach cross-border seamless data and functional interoperable services for practical usage (or not).  Making national data Inspire compliant services, and ensuring that these services are compliant for a pan-European services (i.e. making them ELF compliant). 
+* Dorus Kruse, Dutch Kadaster –15 mins – a coordination perspective - to present about the technical challenges of coordinating the supply of data from multiple providers, the approach taken in ELF and Open ELS, and the lessons learned (to include the challenges of getting Inspire compliant metadata into European Data Portal)
+* Anja Hopfstock, BKG Germany– 15 minutes – The integration perspective - to present the technical challenges of bringing INSPIRE data sets and services together, harmonisation experiences and challenges of doing so and the work arounds necessary to achieve pan-European data.  Drawing on experiences from ELF, Open ELS and the CRD project.
+* Mick Cory, EuroGeographics – 10 mins – the overarching perspective – the legal, policy and organisational challenges and lessons learned.
+* Questions, discussion and wrap-up – 25 minutes
 
 
 # Other information
