@@ -42,7 +42,7 @@ On this presentation, I'm going to show the process to create the vector tile se
 Participants can try the clients and vector tile service of the presentation (bring your laptop for this).
 
 * Notepad++ is useful for seeing the code in their laptop. 
-* Web browser for using maputnik will be used https://maputnik.github.io/editor/#0.86/0/0
+* Web browser for using maputnik will be used [https://maputnik.github.io/editor/#0.86/0/0](https://maputnik.github.io/editor/#0.86/0/0)
 
 Knowledge related to the following subjects will be helpful, but not mandatory:
 * Basic knowledge of Web Map Service and Web Map Tile Service.
