@@ -21,8 +21,8 @@ If you have an interesting Use Case & data, bring it along!
 
 * Organizers of the event: 
 	* Kathi Schleidt, [DataCove e.U.](https://www.datacove.eu/)
-	* Sylvain Grellet [BRGM](https://www.brgm.eu/)
-	* Hylke van der Schaaf [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/servlet/is/12481/)
-	* Simone Giannecchini [GeoSolutions](https://www.geo-solutions.it/)
+	* Sylvain Grellet, [BRGM](https://www.brgm.eu/)
+	* Hylke van der Schaaf, [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/servlet/is/12481/)
+	* Simone Giannecchini, [GeoSolutions](https://www.geo-solutions.it/)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
