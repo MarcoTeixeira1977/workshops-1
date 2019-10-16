@@ -58,6 +58,6 @@ e) Collect open issues within their organisations for discussion, analysis and c
 
 # Other information
 
-* Organizer of the workshop: [Institut Cartogràfic i Geològic de Catalunya (ICGC)](http://www.icgc.cat/en/)
+* Organizer of the workshop: [Institut Cartogràfic i Geològic de Catalunya (ICGC)](http://www.icgc.cat/en/), [Data Cove E.U.](https://datacove.eu/), [rasdaman GmbH](http://rasdaman.com/)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
