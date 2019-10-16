@@ -29,3 +29,11 @@ During this highly interactive workshop, participants will get a quick overview 
 # What you should bring
 * You don't have to have specific technical knowledge.
 * You don't have to have specific technical resources.
+
+ # Other information
+
+* Organizers of the workshop: 
+  * Thorsten Reitz, [wetransform GmbH](https://www.wetransform.to/)
+  * Sampo Savolainen, [Spatineo](https://www.spatineo.com/)
+* Duration of the workshop: 3 hours
+* Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
