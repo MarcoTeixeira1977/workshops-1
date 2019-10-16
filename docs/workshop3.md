@@ -27,6 +27,8 @@ You are encouraged to set up your own Web API during the workshop and follow the
 
 # Other information
 
-* Organizers of the workshop: [interactive instruments](https://www.interactive-instruments.de/en/), [National Land Survey of Finland](https://www.maanmittauslaitos.fi/en)
+* Organizers of the workshop: 
+    * Clemens Portele, [interactive instruments](https://www.interactive-instruments.de/en/)
+    * Jari Reini, [National Land Survey of Finland](https://www.maanmittauslaitos.fi/en)
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
