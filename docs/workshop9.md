@@ -35,5 +35,5 @@ During this highly interactive workshop, participants will get a quick overview 
 * Organizers of the workshop: 
   * Thorsten Reitz, [wetransform GmbH](https://www.wetransform.to/)
   * Sampo Savolainen, [Spatineo](https://www.spatineo.com/)
-* Duration of the workshop: 3 hours
+* Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
