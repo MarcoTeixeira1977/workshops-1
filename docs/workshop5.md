@@ -41,14 +41,15 @@ A laptop with internet connection would be recommendable for accessing to the sc
 Pre-workshop preparation - It would be desirable if attendees could: 
  
 a) Familiarise with the basics of coverages by reading the tutorials at [http://www.earthserver.eu/webinars](http://www.earthserver.eu/webinars) and the discussions about INSPIRE coverages in the [INSPIRE Community Forum](https://inspire.ec.europa.eu/forum/). 
+
 b) Have a look at the discussions about INSPIRE coverages held in the [INSPIRE Community Forum](https://inspire.ec.europa.eu/forum/ctags?tagarray%5B%5D=TC-Coverage&operator%5B%5D=AND) and [DataCoveEU GitHub](https://github.com/DataCoveEU/INSPIRE_Coverage/issues)
 c) The conclusions about these issues in order to implement OGC CIS1.0 compliant INSPIRE coverages: [https://link.springer.com/article/10.1186%2Fs40965-019-0059-x](https://link.springer.com/article/10.1186%2Fs40965-019-0059-x)
 d) Schemas related to INSPIRE coverage data:
-•	OGC CIS1.0 schemas: [http://schemas.opengis.net/cis/1.0/](http://schemas.opengis.net/cis/1.0/)
-•	Proposals of amended INSPIRE Coverage (metadata) schemas:
-Orthoimagery: [https://schema.datacove.eu/OrthoimageryMetadata.xsd](https://schema.datacove.eu/OrthoimageryMetadata.xsd)
-Elevation: [https://schema.datacove.eu/ElevationGridCoverageMetadata.xsd](https://schema.datacove.eu/ElevationGridCoverageMetadata.xsd)
-Land cover: [http://test.datacove.eu/LandCoverRasterMDExt.xsd](http://test.datacove.eu/LandCoverRasterMDExt.xsd)
+* OGC CIS1.0 schemas: [http://schemas.opengis.net/cis/1.0/](http://schemas.opengis.net/cis/1.0/)
+* Proposals of amended INSPIRE Coverage (metadata) schemas:
+  * Orthoimagery: [https://schema.datacove.eu/OrthoimageryMetadata.xsd](https://schema.datacove.eu/OrthoimageryMetadata.xsd)
+  * Elevation: [https://schema.datacove.eu/ElevationGridCoverageMetadata.xsd](https://schema.datacove.eu/ElevationGridCoverageMetadata.xsd)
+  * Land cover: [http://test.datacove.eu/LandCoverRasterMDExt.xsd](http://test.datacove.eu/LandCoverRasterMDExt.xsd)
 
 e) Collect open issues within their organisations for discussion, analysis and clarification. 
 
