@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Workshop description #1 - Inspire Helsinki 2019"
+title: "Workshop description #8 - Inspire Helsinki 2019"
 description: "Material for workshops"
 page: "workshop1"
 ---
