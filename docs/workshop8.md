@@ -26,12 +26,12 @@ The workshop will include a discussion to explore others’ experiences, and ans
 
 # Other information
 
-* Organizers of the event: 
-  * [EuroGeographics](https://eurogeographics.org/)
-  * [IGN France](http://www.ign.fr/)
-  * [Czech Office for Surveying, Mapping and Cadastre (CUZK)](https://www.cuzk.cz/en)
-  * [Dutch Kadaster](https://www.kadaster.nl/about-us)
-  * [BKG Germany](https://www.bkg.bund.de/EN/Home/home.html)
+* Organizers of the event:
+  * Dominique Laurent, [IGN France](http://www.ign.fr/)
+  * Mick Cory, [EuroGeographics](https://eurogeographics.org/)
+  * Eva Pauknerova, [Czech Office for Surveying, Mapping and Cadastre (CUZK)](https://www.cuzk.cz/en)
+  * Dorus Kruse, [Dutch Kadaster](https://www.kadaster.nl/about-us)
+  * Anja Hopfstock, [BKG Germany](https://www.bkg.bund.de/EN/Home/home.html)
 
 * Duration of the workshop: 1.5 hours
 * Event programme [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
