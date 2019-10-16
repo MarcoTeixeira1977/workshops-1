@@ -2,7 +2,7 @@
 layout: "default"
 title: "Workshop description #8 - Inspire Helsinki 2019"
 description: "Material for workshops"
-page: "workshop1"
+page: "workshop8"
 ---
 # Experiences in implementing pan-European Services using national INSPIRE services
 
