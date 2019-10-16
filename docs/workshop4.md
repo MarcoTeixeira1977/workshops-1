@@ -6,7 +6,7 @@ page: "workshop4"
 ---
 # 1st part: Event-Driven INSPIRE (1 hour)
 
-* Organizer of the 1st part of the workshop: (1 hour): Simon Jirka & Matthes Rieke, [52°North](https://52north.org/en/)
+* Organizers of the 1st part of the workshop: (1 hour): Simon Jirka & Matthes Rieke, [52°North](https://52north.org/en/)
 
 Many applications rely on the timely delivery of data. This can comprise: 
  
