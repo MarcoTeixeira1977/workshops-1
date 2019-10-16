@@ -6,7 +6,7 @@ page: "workshop4"
 ---
 # 1st part: Event-Driven INSPIRE (1 hour)
 
-* Organizer of the 1st part of the workshop: (1 hour): [52°North](https://52north.org/en/)
+* Organizer of the 1st part of the workshop: (1 hour): Simon Jirka & Matthes Rieke, [52°North](https://52north.org/en/)
 
 Many applications rely on the timely delivery of data. This can comprise: 
  
@@ -32,7 +32,7 @@ There are no specific requirements. Generally an understanding of Spatial Data I
 
 # 2nd part: Exchange of experience of vector tile service: pros and cons (½ hours)
 
-* Organizer of the 2nd part of the workshop (½ hours) [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
+* Organizer of the 2nd part of the workshop (½ hours): Laura Alemany, [Center of National Geographic Information (CNIG, Spain)](https://www.cnig.es/locale?lang=en)
 
 A vector tile is a vector representation of geographic data covering a spatially contiguous and rectangular extent. They are similar to raster (image) map tiles in their intent, namely to provide support to fast map services which can take advantage of pre-rendering, caching and concurrent requests. They are different because instead of providing a pre-styled fixed image depiction of the geographic data, they are a vector representation which can be manipulated, e.g. styled, client-side. It is important to highlight that they are a representation of data intended for visualization, and thus they belong to view services and not to download services; the underlying data, i.e. the geographic features, will be selected, combined, simplified and cropped to generate small vector tiles that can be quickly delivered to relatively simple client devices and applications, where they will be styled. 
  
