@@ -54,25 +54,25 @@ To remove the installation and the files again:
 
 If you have a URL of a public WFS 2.0 with data that you are interested in, great, but here is a short list of some sample WFS URLs that you can use, too.
 
-* http://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht?REQUEST=GetCapabilities&SERVICE=WFS  
+* [http://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht?REQUEST=GetCapabilities&SERVICE=WFS](http://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht?REQUEST=GetCapabilities&SERVICE=WFS)  
 Cadastral dataset from North-Rhine Westphalia in Germany. This is the same WFS 2.0 that is available using an older version of ldproxy at https://www.ldproxy.nrw.de/kataster.
 
-* http://services.rce.geovoorziening.nl/landschapsatlas/wfs?service=WFS&request=GetCapabilities  
+* [http://services.rce.geovoorziening.nl/landschapsatlas/wfs?service=WFS&request=GetCapabilities](http://services.rce.geovoorziening.nl/landschapsatlas/wfs?service=WFS&request=GetCapabilities)  
 Various landscape data from the Netherlands.
 
-* https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS  
+* [https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS  
 Charging stations for electric cars in the city of Hamburg, Germany.
 
-* http://geoserver.ymparisto.fi/geoserver/wfs?service=wfs&request=GetCapabilities  
+* http://geoserver.ymparisto.fi/geoserver/wfs?service=wfs&request=GetCapabilities](https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS)  
 Various INSPIRE data from SYKE in Finland.
 
-* https://geodata.nationaalgeoregister.nl/inspireadressen/v2/wfs?service=wfs&request=GetCapabilities  
+* [https://geodata.nationaalgeoregister.nl/inspireadressen/v2/wfs?service=wfs&request=GetCapabilities](https://geodata.nationaalgeoregister.nl/inspireadressen/v2/wfs?service=wfs&request=GetCapabilities)  
 Address data from the Netherlands.
 
-* http://sg.geodatenzentrum.de/wfs_dlm1000?REQUEST=GetCapabilities&SERVICE=WFS  
+* [http://sg.geodatenzentrum.de/wfs_dlm1000?REQUEST=GetCapabilities&SERVICE=WFS](http://sg.geodatenzentrum.de/wfs_dlm1000?REQUEST=GetCapabilities&SERVICE=WFS)  
 1:1000000 topographic data from Germany.
 
-* http://data.isric.org/geoserver/wosis_latest/wfs?service=WFS&request=GetCapabilities  
+* [http://data.isric.org/geoserver/wosis_latest/wfs?service=WFS&request=GetCapabilities](http://data.isric.org/geoserver/wosis_latest/wfs?service=WFS&request=GetCapabilities)  
 World Soil Information Service (WoSIS) data.
 
 # Other information
