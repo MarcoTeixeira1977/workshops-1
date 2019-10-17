@@ -10,7 +10,7 @@ In this workshop we will set up "OGC API - Features" service which will provide 
 
 The emerging OGC API standards are an important step to make spatial data more easily accessible using open standards and in Web APIs. OGC API Features, formerly known as "WFS 3.0" (it started as a revision of the OGC WFS standard) has been leading this process. After two years of intensive implementation and testing the first part of OGC API Features has been approved and [published by OGC](http://docs.opengeospatial.org/is/17-069r3/17-069r3.html). This [OGC blog post](https://www.opengeospatial.org/blog/2996) has additional information about OGC API.
 
-In this workshop you will learn
+In this workshop you will learn:
 * how OGC API Features differs from WFS and why;
 * how to set up a Web API facade supporting OGC API standards in front of an existing WFS using ldproxy;
 * how your Web API makes the data more accessible and easier to use for both developers and users;
