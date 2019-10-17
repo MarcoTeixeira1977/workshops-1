@@ -60,10 +60,10 @@ Cadastral dataset from North-Rhine Westphalia in Germany. This is the same WFS 2
 * [http://services.rce.geovoorziening.nl/landschapsatlas/wfs?service=WFS&request=GetCapabilities](http://services.rce.geovoorziening.nl/landschapsatlas/wfs?service=WFS&request=GetCapabilities)  
 Various landscape data from the Netherlands.
 
-* [https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS  
+* [https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS](https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS)  
 Charging stations for electric cars in the city of Hamburg, Germany.
 
-* http://geoserver.ymparisto.fi/geoserver/wfs?service=wfs&request=GetCapabilities](https://geodienste.hamburg.de/HH_WFS_EMobility?REQUEST=GetCapabilities&SERVICE=WFS)  
+* [http://geoserver.ymparisto.fi/geoserver/wfs?service=wfs&request=GetCapabilities](http://geoserver.ymparisto.fi/geoserver/wfs?service=wfs&request=GetCapabilities)  
 Various INSPIRE data from SYKE in Finland.
 
 * [https://geodata.nationaalgeoregister.nl/inspireadressen/v2/wfs?service=wfs&request=GetCapabilities](https://geodata.nationaalgeoregister.nl/inspireadressen/v2/wfs?service=wfs&request=GetCapabilities)  
