@@ -23,7 +23,7 @@ Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://ww
 [Feel the power of INSPIRE WCS / WCPS in your hands](https://workshops.inspire-helsinki-2019.fi/workshop5)
 
 17:00 - 18:30
-[OGC SELFIE - Second Environmental Linked Features Interoperability Experiment](https://workshops.inspire-helsinki-2019.fi/workshop6)
+[OGC ELFIE - Environmental Linked Features Interoperability Experiment](https://workshops.inspire-helsinki-2019.fi/workshop6)
 
 
 **Workshops track 2 (Revelation):**
