@@ -17,7 +17,7 @@ During this session, we will give you an insight into new structure, contents an
 # Other information
 
 * No previous knowledge is required.
-* No technical equipment is required. Bring our laptop in case you want to check the contents of the platform and register as a new platform user right away,
+* No technical equipment is required. Bring our laptop in case you want to check the contents of the platform and register as a new platform user right away.
 * Presenters:
     * Robert Tomas, [Joint Research Centre](https://ec.europa.eu/info/departments/joint-research-centre_en)
     * Lena Hallin-Pihlatie, [National Land Survey of Finland](https://www.maanmittauslaitos.fi/en)
