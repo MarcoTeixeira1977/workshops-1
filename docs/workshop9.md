@@ -30,7 +30,7 @@ During this highly interactive workshop, participants will get a quick overview 
 * You don't have to have specific technical knowledge.
 * You don't have to have specific technical resources.
 
- # Other information
+# Other information
 
 * Organizers of the workshop: 
   * Thorsten Reitz, [wetransform GmbH](https://www.wetransform.to/)
