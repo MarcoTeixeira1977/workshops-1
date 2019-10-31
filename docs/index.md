@@ -6,7 +6,7 @@ page: "main"
 ---
 # Inspire Helsinki 2019 Workshops 
 
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) features practical hands-on workshops on Wednesday October 23, 2019. The workshops are focused on spatial data and latest technologies, to improve decision making and the daily live of everyone. They are aimed at developers, project managers and other technical people. The event is now sold out.
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) featured practical hands-on workshops on Wednesday October 23, 2019. The workshops were focused on spatial data and latest technologies, to improve decision making and the daily live of everyone. They were aimed at developers, project managers and other technical people. The event was sold out.
 
 Descriptions of the workshops can be found via links below. Some preliminary materials and instructions will be added before the event.
 Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://www.inspire-helsinki-2019.fi/programme)
@@ -14,7 +14,7 @@ Full programme here: [https://www.inspire-helsinki-2019.fi/programme](https://ww
 **Workshops track 1 (Lounge):** 
 
 9:00 - 12:30
-[INSPIRE, WFS3 and HALE Support in GeoServer: where are we?](https://workshops.inspire-helsinki-2019.fi/workshop1) --- Materials: 
+[INSPIRE, WFS3 and HALE Support in GeoServer: where are we?](https://workshops.inspire-helsinki-2019.fi/workshop1) --- [Materials on an external website](https://geoserver.geo-solutions.it/edu/en/complex_features/index.html) 
 
 13:30 - 15:00
 [OGC API Features: enhanced usability for existing WFS services](https://workshops.inspire-helsinki-2019.fi/workshop3) --- [Materials as a PDF file](https://github.com/inspire-helsinki-2019/workshops/raw/master/materials/InspireHelsinki2019_OGC%20API-Features%20Enhanced%20usability%20for%20existing%20WFS%20services.pdf)
